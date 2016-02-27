@@ -1,23 +1,23 @@
 {
-  "name": "grunt-json-concat",
+  "name": "grunt-json-extend-concat",
   "description": "Concatenates JSON from multiple files, extending the objects with JSON files contained in subdirectories, outputting combined JSON config files.",
   "version": "0.1.0",
-  "homepage": "https://github.com/alexheyd/grunt-json-concat",
+  "homepage": "https://github.com/alexheyd/grunt-json-extend-concat",
   "author": {
     "name": "Alex Heyd",
     "email": "alexheyd@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alexheyd/grunt-json-concat.git"
+    "url": "git@github.com:alexheyd/grunt-json-extend-concat.git"
   },
   "bugs": {
-    "url": "https://github.com/alexheyd/grunt-json-concat/issues"
+    "url": "https://github.com/alexheyd/grunt-json-extend-concat/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/alexheyd/grunt-json-concat/blob/master/LICENSE-MIT"
+      "url": "https://github.com/alexheyd/grunt-json-extend-concat/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {

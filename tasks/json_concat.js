@@ -23,8 +23,8 @@ module.exports = function(grunt) {
   // configs based on environment and region
   function extendTask() {
       options = this.options({
-          root: './configs',
-          output: './dist'
+          root: 'configs',
+          output: 'dist'
       });
 
       // get all files in root source dir
